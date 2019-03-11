@@ -4,7 +4,7 @@ Keyboarder is a program that modifies the behaviour of your keyboard in real-tim
 When you start the program, it will appear as an icon in your task bar. Just right click on it to open the menu.
 
 # Screenshot
-![alt text](screenshot.png "Logo Title Text 1")
+![Keyboarder](screenshot.png "Keyboarder")
 
 # Mods available
 
