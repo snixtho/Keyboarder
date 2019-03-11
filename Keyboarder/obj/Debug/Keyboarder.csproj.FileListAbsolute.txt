@@ -1,0 +1,27 @@
+C:\Users\snixtho\Dropbox\Project Ovnesa\vs\Keyboarder\Keyboarder\bin\Debug\Keyboarder.exe.config
+C:\Users\snixtho\Dropbox\Project Ovnesa\vs\Keyboarder\Keyboarder\bin\Debug\Keyboarder.exe
+C:\Users\snixtho\Dropbox\Project Ovnesa\vs\Keyboarder\Keyboarder\bin\Debug\Keyboarder.pdb
+C:\Users\snixtho\Dropbox\Project Ovnesa\vs\Keyboarder\Keyboarder\obj\Debug\Keyboarder.csprojResolveAssemblyReference.cache
+C:\Users\snixtho\Dropbox\Project Ovnesa\vs\Keyboarder\Keyboarder\obj\Debug\Keyboarder.Properties.Resources.resources
+C:\Users\snixtho\Dropbox\Project Ovnesa\vs\Keyboarder\Keyboarder\obj\Debug\Keyboarder.csproj.GenerateResource.Cache
+C:\Users\snixtho\Dropbox\Project Ovnesa\vs\Keyboarder\Keyboarder\obj\Debug\Keyboarder.exe
+C:\Users\snixtho\Dropbox\Project Ovnesa\vs\Keyboarder\Keyboarder\obj\Debug\Keyboarder.pdb
+C:\Users\snixtho\Dropbox\Project Ovnesa\vs\Keyboarder\Keyboarder\obj\Debug\Keyboarder.MainGUI.resources
+E:\Dropbox\Dropbox\Project_Ovnesa\vs\Keyboarder\Keyboarder\bin\Debug\Keyboarder.exe.config
+E:\Dropbox\Dropbox\Project_Ovnesa\vs\Keyboarder\Keyboarder\bin\Debug\Keyboarder.exe
+E:\Dropbox\Dropbox\Project_Ovnesa\vs\Keyboarder\Keyboarder\bin\Debug\Keyboarder.pdb
+E:\Dropbox\Dropbox\Project_Ovnesa\vs\Keyboarder\Keyboarder\obj\Debug\Keyboarder.MainGUI.resources
+E:\Dropbox\Dropbox\Project_Ovnesa\vs\Keyboarder\Keyboarder\obj\Debug\Keyboarder.Properties.Resources.resources
+E:\Dropbox\Dropbox\Project_Ovnesa\vs\Keyboarder\Keyboarder\obj\Debug\Keyboarder.csproj.GenerateResource.Cache
+E:\Dropbox\Dropbox\Project_Ovnesa\vs\Keyboarder\Keyboarder\obj\Debug\Keyboarder.exe
+E:\Dropbox\Dropbox\Project_Ovnesa\vs\Keyboarder\Keyboarder\obj\Debug\Keyboarder.pdb
+F:\Dropbox\Dropbox\Project_Ovnesa\vs\Keyboarder\Keyboarder\bin\Debug\Keyboarder.exe.config
+F:\Dropbox\Dropbox\Project_Ovnesa\vs\Keyboarder\Keyboarder\bin\Debug\Keyboarder.exe
+F:\Dropbox\Dropbox\Project_Ovnesa\vs\Keyboarder\Keyboarder\bin\Debug\Keyboarder.pdb
+F:\Dropbox\Dropbox\Project_Ovnesa\vs\Keyboarder\Keyboarder\obj\Debug\Keyboarder.csprojAssemblyReference.cache
+F:\Dropbox\Dropbox\Project_Ovnesa\vs\Keyboarder\Keyboarder\obj\Debug\Keyboarder.MainGUI.resources
+F:\Dropbox\Dropbox\Project_Ovnesa\vs\Keyboarder\Keyboarder\obj\Debug\Keyboarder.Properties.Resources.resources
+F:\Dropbox\Dropbox\Project_Ovnesa\vs\Keyboarder\Keyboarder\obj\Debug\Keyboarder.csproj.GenerateResource.cache
+F:\Dropbox\Dropbox\Project_Ovnesa\vs\Keyboarder\Keyboarder\obj\Debug\Keyboarder.csproj.CoreCompileInputs.cache
+F:\Dropbox\Dropbox\Project_Ovnesa\vs\Keyboarder\Keyboarder\obj\Debug\Keyboarder.exe
+F:\Dropbox\Dropbox\Project_Ovnesa\vs\Keyboarder\Keyboarder\obj\Debug\Keyboarder.pdb
