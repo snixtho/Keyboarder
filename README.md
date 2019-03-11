@@ -14,3 +14,6 @@ When you start the program, it will appear as an icon in your task bar. Just rig
 | 1337 Speak       | This converts your characters into their leet speak representation. |
 | Random Caps      | This tweak turns your caps lock on and off in a cycle. Due to the random nature of humans, the output characters will randomly be upper and lower-case |
 | Morse Code       | Converts all typed characters into their morse-code representation. |
+
+# Downloads
+You can find available downloads [- here -](https://github.com/snixtho/Keyboarder/releases).
